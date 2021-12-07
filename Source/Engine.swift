@@ -30,7 +30,7 @@ class Engine: NSObject {
     static let _CHAR_I = "I"
     static let _CHAR_O = "O"
     static let _CHAR_J = "J"
-    static let _STR_DF = "DF"
+    static let _STR_DF = "DFABCEGHJK"
     static let _STR_ZX = "ZX"
     static let _STR_NUM = "1234567890"
     static let _STR_NUM1_3 = "123"
